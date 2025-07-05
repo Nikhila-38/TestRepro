@@ -1,6 +1,6 @@
 package ex_17_OOPS;
 
-public class Person {
+public class Person{
     public static void main{
         String name;
         int age;
@@ -12,7 +12,7 @@ public class Person {
             System.out.println("Walking");
         }
         void eat(){
-            System.out.println("Eating");
+            System.out.println("Walking");
         }
         void sleep(){
             System.out.println("Sleeping");
