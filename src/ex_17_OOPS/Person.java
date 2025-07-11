@@ -14,11 +14,13 @@ public class Person{
         void eat(){
             System.out.println("Walking");
         }
-        void sleep(){
+        String sleep(){
             System.out.println("Sleeping");
+            return null;
         }
         String food(int a){
             System.out.println("Walking");
+            return null;
         }
     }
 }
