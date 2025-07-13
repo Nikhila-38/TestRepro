@@ -5,4 +5,5 @@ public class $254 {
         System.out.println("Hi");
     }
 }
-// Here we can class name as
+// Here we can class name as $4827, Chnd*, Class, Archana$Abc,Jai, abc_xyz,TN,This_is_my_Automation_course,_Appium
+
