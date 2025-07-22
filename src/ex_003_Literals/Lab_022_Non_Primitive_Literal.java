@@ -5,7 +5,7 @@ public class Lab_022_Non_Primitive_Literal {
     public static void main(String[] args) {
         // Primitive Data Type - Defined by java
         // in this min, max and size is defined
-        byte b =10;
+        byte b = 10;
         int age = 45;
 
         //Non Primitive datatype (we will define by ourself)

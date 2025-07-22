@@ -7,3 +7,4 @@ public class Lab004_Keywords_Identifiers {
 
     }
 }
+//"they are package,public,class,static and void are called keywords and Identifiers are Lab005_Keywords_Identifiers and args");
