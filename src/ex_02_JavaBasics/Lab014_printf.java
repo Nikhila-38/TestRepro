@@ -5,7 +5,7 @@ public class Lab014_printf {
         int a = 16;
         System.out.print("print command, without new line");
 
-        System.out.println("Hello World");
+        System.out.println("ex_01_Java_Basic._JAVA.Hello World");
         System.out.println("add  the new line in the end");
 
         System.out.println(a);
