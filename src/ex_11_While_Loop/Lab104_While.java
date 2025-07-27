@@ -1,6 +1,6 @@
 package ex_11_While_Loop;
 
-public class Lab101_While {
+public class Lab104_While {
     public static void main(String[] args) {
 
             int i =  0;  //While Loop = intializing the value outside the loop

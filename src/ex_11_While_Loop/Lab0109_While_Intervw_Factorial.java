@@ -2,7 +2,7 @@ package ex_11_While_Loop;
 
 import java.util.Scanner;
 
-public class Lab0106_While_Intervw_Factorial {
+public class Lab0109_While_Intervw_Factorial {
     public static void main(String[] args) {
                                                         // Factorial Program
         Scanner scanner = new Scanner(System.in);

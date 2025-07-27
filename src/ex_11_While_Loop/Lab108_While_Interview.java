@@ -1,6 +1,6 @@
 package ex_11_While_Loop;
 
-public class Lab105_While_Interview {
+public class Lab108_While_Interview {
     public static void main(String[] args) {
         int n1 = 10;
         while (n1 >= 1){

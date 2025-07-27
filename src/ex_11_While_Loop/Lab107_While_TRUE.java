@@ -1,6 +1,6 @@
 package ex_11_While_Loop;
 
-public class Lab104_While_TRUE {
+public class Lab107_While_TRUE {
     public static void main(String[] args) {
         while (true){
             System.out.println("Bangalore");

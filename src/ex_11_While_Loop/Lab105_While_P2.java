@@ -1,6 +1,6 @@
 package ex_11_While_Loop;
 
-public class Lab102_While_P2 {
+public class Lab105_While_P2 {
     public static void main(String[] args) {
 
         int Rahul = 1;

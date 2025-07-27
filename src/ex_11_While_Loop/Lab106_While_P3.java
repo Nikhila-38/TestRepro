@@ -1,6 +1,6 @@
 package ex_11_While_Loop;
 
-public class Lab103_While_P3 {
+public class Lab106_While_P3 {
     public static void main(String[] args) {
 
         int i = 0;
