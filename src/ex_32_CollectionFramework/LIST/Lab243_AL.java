@@ -1,4 +1,4 @@
-package ex_32_CollectionFramework;
+package ex_32_CollectionFramework.LIST;
 
 import java.util.ArrayList;
 import java.util.List;

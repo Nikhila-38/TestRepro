@@ -1,4 +1,4 @@
-package ex_32_CollectionFramework;
+package ex_32_CollectionFramework.LIST;
 
 public class Lab240 {
     public static void main(String[] args) {
